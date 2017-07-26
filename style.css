@@ -1,5 +1,5 @@
 body {
-  background-color: #a4f9c8;
+  background-color: #7a7265;
   font-family: 'Indie Flower', cursive;
   font-size:17px;
   line-height: 25px;
@@ -35,7 +35,8 @@ a:hover {
 .card {
   margin: 30 -172;
   padding: 7px;
-  background-color: #baacbd;
+  background-color: #826754;
+  border-radius: 7px;
 }
 
 .list-inline > li {
