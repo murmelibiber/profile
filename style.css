@@ -1,0 +1,45 @@
+body {
+  background-color: #a4f9c8;
+  font-family: 'Indie Flower', cursive;
+  font-size:17px;
+  line-height: 25px;
+}
+
+.threepics {
+  border-radius: 46px;
+  width: 332px;
+  height: 185px;
+}
+
+
+h1,h2,h3 {
+  font-family: 'Pacifico', cursive;
+  color:#413f54;
+}
+.textalign {
+  text-align: center;
+}
+
+i:hover {
+  color: green;
+}
+a:hover {
+  color:green;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  margin: 30 -172;
+  padding: 7px;
+  background-color: #baacbd;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 6px;
+}
+
